@@ -1,0 +1,19 @@
+{
+  "name": "example_lodash",
+  "version": "1.0.0",
+  "description": "Mini clone of Lodash.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alexhamilton1221/assignment_2_3097140_Hamilton_Alexander.git"
+  },
+  "author": "Alex Hamilton",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Alexhamilton1221/assignment_2_3097140_Hamilton_Alexander/issues"
+  },
+  "homepage": "https://github.com/Alexhamilton1221/assignment_2_3097140_Hamilton_Alexander#readme"
+}
